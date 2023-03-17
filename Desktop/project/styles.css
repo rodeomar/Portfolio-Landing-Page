@@ -1,3 +1,44 @@
 body {
-    background-color: aquamarine;
+    background-color: rgb(222, 235, 231);
+    box-sizing:content-box;
+    background-image: url(https://www.travelandleisure.com/thmb/PKnnV8gJxFnrFJzw2XJigN0cVnY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/portand-oregon-PORTLANDTG0521-8cba353e39144681bec21f35adef4a68.jpg);
+}
+
+h1 {
+    text-align: center;
+    text-indent: 30px;
+}
+li {
+    list-style: none;
+    padding: o;
+    margin: 0;
+    display: inline-block;
+    
+}
+ul {
+    
+}
+li {
+
+}
+li a {
+    color: #070901;
+    padding: 150px;
+}
+.group {
+    display: flex;
+    justify-content: space-around;
+    background-color: #4B5043;
+    padding:10px;
+    border-radius: 8px;
+    margin: 10px;
+    border: 2px solid #070901;
+    font-size: larger;
+    
+}
+h2 {
+    text-align: center;
+    border: 20px;
+    border-radius: 20px;
+    background-color: azure;
 }
