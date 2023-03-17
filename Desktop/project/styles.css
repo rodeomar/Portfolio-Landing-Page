@@ -22,42 +22,41 @@ body {
     
 
 }
-li {
-    list-style: none;
-    padding: o;
-    margin: 0;
-    display: inline-block;
-    font-size: 20px;
-    
-    
-}
-ul {
-    
-}
-li {
-
-}
-li a {
-    color: #070901;
-    padding: 125px;
-}
 .group {
     display: flex;
     justify-content: space-around;
     background-color: #4B5043;
-    padding:6x;
+    padding:6px;
     border-radius: 8px;
     margin: 10px;
     border: 2px solid #070901;
     font-size: larger;
-    opacity: 0.90;
+    opacity: 0.90;   
+}
+lu {
+
+}
+li {
+    list-style: none;
+    display: inline;
+}
+li a {
+    padding: 125px;
+    color: black;
+}
+.jed {
+    background-image: url(https://cdn.getyourguide.com/img/tour/624fe578ea748.jpeg/97.jpg);
+    float:left;
     
 }
-h2 {
-    text-align: center;
-    border: 20px;
-    border-radius: 20px;
-    background-color: rgb(180, 108, 57);
-    opacity: 0.700;
-    color:rgb(0, 0, 6) ;
+h3 {
+    display: flex;
+    justify-content: space-around;
+    background-color: #8DDBE0;
+    padding:6px;
+    border-radius: 8px;
+    margin: 60px;
+    border: 2px solid #070901;
+    font-size: larger;
+    opacity: 0.90;   
 }
