@@ -59,4 +59,9 @@ h3 {
     border: 2px solid #070901;
     font-size: larger;
     opacity: 0.90;   
+    max-width: 60%;
+    box-sizing: border-box;
 }
+h5 {
+    font-size: 20px;
+    margin-top: 20px;
